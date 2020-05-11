@@ -5,3 +5,10 @@ C:\Users\HP\source\repos\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
 C:\Users\HP\source\repos\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\Task\Task\obj\Debug\Task.exe
 C:\Users\HP\source\repos\Task\Task\obj\Debug\Task.pdb
+C:\Users\HP\Desktop\C#-projects\10-05-2020-csharp-inheritance-anarfarzaliyev42\Task\Task\bin\Debug\Task.exe.config
+C:\Users\HP\Desktop\C#-projects\10-05-2020-csharp-inheritance-anarfarzaliyev42\Task\Task\bin\Debug\Task.exe
+C:\Users\HP\Desktop\C#-projects\10-05-2020-csharp-inheritance-anarfarzaliyev42\Task\Task\bin\Debug\Task.pdb
+C:\Users\HP\Desktop\C#-projects\10-05-2020-csharp-inheritance-anarfarzaliyev42\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#-projects\10-05-2020-csharp-inheritance-anarfarzaliyev42\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#-projects\10-05-2020-csharp-inheritance-anarfarzaliyev42\Task\Task\obj\Debug\Task.exe
+C:\Users\HP\Desktop\C#-projects\10-05-2020-csharp-inheritance-anarfarzaliyev42\Task\Task\obj\Debug\Task.pdb

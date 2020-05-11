@@ -16,6 +16,7 @@ namespace Task
         }
         static void GetInputs()
         {
+            Console.WriteLine("Please enter keyword");
             string keyWord = Console.ReadLine();
 
             CheckKeyword(keyWord);
